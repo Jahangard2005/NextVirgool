@@ -1,0 +1,261 @@
+footer.single-post-footer.js-postfooter {
+    border-radius: 20px;
+    background-color: #000000;
+    padding: 20px;
+}
+
+div.publishModal-cover {
+    border-radius: 20px;
+}
+
+#react-app>section>div.page-content>div.md-RichEditor-root>div>div.md-side-toolbar {
+    margin-left: 100px;
+}
+
+#react-app>section>section.homeStream>div>div.homeStream-sidebar.js-homeStream-sidebar>div>footer {
+    border-radius: 20px;
+    background-color: #252525;
+    padding: 20px;
+    font-size: 12px;
+}
+
+#react-app>section>section.homeStream>div>div.homeStream-sidebar.js-homeStream-sidebar>div>footer>a {
+    margin: 1px;
+}
+
+body>section>header>section>nav {
+    background-color: #111111 !important;
+}
+
+section.topbar {
+    background-color: #000000 !important;
+}
+
+#react-app>div>div>ul>li {
+    border-radius: 50px;
+}
+
+section.topbar {
+    background-color: #252525;
+}
+
+div.postSidebar-block {
+    visibility: hidden;
+}
+
+#app>section>section.page-inner>section>article>div {
+    border-radius: 20px;
+    background-color: #000000;
+    padding: 20px;
+}
+
+div.notranslate.public-DraftEditor-content {
+    border-radius: 20px;
+    background-color: #000000;
+    padding: 20px;
+}
+
+#react-app>section>div.page-content>div.md-RichEditor-root>div>div.DraftEditor-root>div>div {
+    margin: 0px;
+}
+
+div.post-content.article-content {
+    text-align: justify;
+}
+
+div.public-DraftStyleDefault-block.public-DraftStyleDefault-rtl {
+    color: #ffffff;
+    text-align: justify;
+}
+
+div.comment-item-content {
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+}
+
+aside.block.block-style-1 {
+    border-radius: 20px;
+}
+
+aside.block.block-style-sound {
+    border-radius: 20px;
+}
+
+div.block-body {
+    border-radius: 20px;
+}
+
+article.headerStream--item.headerStream--item-largeCard {
+    border-radius: 20px;
+}
+
+div.headerStream-postContent {
+    border-radius: 20px;
+}
+
+div.headerStream-post {
+    border-radius: 20px;
+}
+
+img.headerStream--img {
+    border-radius: 20px;
+}
+
+img.streamItem--img {
+    border-radius: 20px;
+}
+
+span.has-sound {
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+article.card.card-post.js-button-action {
+    border-radius: 20px;
+}
+
+a.feedPage-headerPost--cover {
+    border-radius: 25px;
+}
+
+aside.responses-editor.card-cm.open {
+    border-radius: 20px;
+}
+
+article.comment-item {
+    border-radius: 20px;
+}
+
+div.headerStream-userGuide {
+    border-radius: 20px;
+}
+
+header.block-header {
+    border-radius: 20px;
+}
+
+aside.responses-editor.card-cm {
+    border-radius: 20px;
+}
+
+a.oembedall-default {
+    border-radius: 20px;
+}
+
+pre.md-block-code {
+    border-radius: 20px;
+}
+
+div.postItem-body {
+    border-radius: 20px;
+}
+
+blockquote.md-block-blockquote.md-block-rtl {
+    border-radius: 20px;
+}
+
+div._1imLYzhaZ-qOUfm9cxx5lY {
+    border-radius: 20px;
+}
+
+a.is-flex.is-flex-direction-column.is-justify-content-space-between.is-flex-grow-1.p-20 {
+    border-radius: 20px;
+}
+
+aside.is-flex.is-justify-content-space-between.is-flex-wrap-wrap {
+    border-radius: 20px;
+}
+
+div.is-flex.is-flex-direction-row-reverse.is-justify-content-flex-start.is-flex-wrap-wrap.overflow-hidden._1acMe5QKUNPhl_WFJaZV9f {
+    border-radius: 20px;
+}
+
+div.is-block._qleZmCR1aILodso3Otyj {
+    border-radius: 20px;
+}
+
+pre.public-DraftStyleDefault-pre {
+    border-radius: 25px;
+}
+
+div.public-DraftStyleDefault-block.public-DraftStyleDefault-rtl {
+    border-radius: 20px;
+}
+
+blockquote.md-block.md-block-quote.md-RichEditor-blockquote {
+    border-radius: 20px;
+}
+
+div.postItemContent {
+    border-radius: 20px !important;
+}
+
+blockquote.md-block-blockquote.md-block-ltr {
+    border-radius: 20px;
+}
+
+code.md-inline-code {
+    border-radius: 20px;
+}
+
+div.public-DraftStyleDefault-block.public-DraftStyleDefault-ltr {
+    border-radius: 20px;
+}
+
+ul.toggle-content {
+    border-radius: 10px;
+}
+
+iframe {
+    border-radius: 20px;
+}
+
+figure.md-block-embed.md-block-ltr {
+    border-radius: 20px;
+}
+
+p.tableCell--bio.js--linkify {
+    text-align: justify;
+}
+
+a.post-player-section--help {
+    visibility: hidden;
+}
+
+#app>section>section.page-inner>section>article>header {
+    padding: 20px;
+    background-color: #000000;
+    border-radius: 20px;
+}
+
+textarea.textarea.dir-rtl {
+    text-align: justify;
+}
+
+body>section>header>section>nav>div {
+    text-align: center;
+}
+
+body>section>header>section {
+    background-color: #000000;
+}
+
+div.plyr.plyr--full-ui.plyr--audio.plyr--html5.plyr--paused.plyr--stopped {
+    border-radius: 50px;
+}
+
+h2.block--title {
+    text-align: center;
+}
+
+small {
+    text-align: center;
+}
