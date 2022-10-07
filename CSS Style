@@ -4,8 +4,20 @@ footer.single-post-footer.js-postfooter {
     padding: 20px;
 }
 
+body > section > header > section > section > div.container > section > div:nth-child(1) > a.publication-logo {
+    visibility: hidden;
+}
+
+#app-root-modal > div.singleBottomToolbar.is-visible > div {
+    visibility: hidden;
+}
+
 div.publishModal-cover {
     border-radius: 20px;
+}
+
+#react-app>section>div.page-content>div.md-RichEditor-root>div>div.DraftEditor-root>div>div>div>figure.md-block.md-block-embed {
+    border-radius: 25px;
 }
 
 #react-app>section>div.page-content>div.md-RichEditor-root>div>div.md-side-toolbar {
